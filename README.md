@@ -8,4 +8,5 @@ this project is used to study git
     this is demo2
 
 ### dev 
- this is from dev
+* this is from dev
+* this is from dev2
