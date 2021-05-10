@@ -2,7 +2,7 @@
  * @Author: si shaohua
  * @Date: 2021-05-10 13:13:19
  * @LastEditors: si shaohua
- * @LastEditTime: 2021-05-10 14:16:57
+ * @LastEditTime: 2021-05-10 14:21:24
  * @Description: file content
 -->
 # hello-word
@@ -12,4 +12,4 @@ this project is used to study git
     this is demo
 
 ### demo2
-    this is demo2事
+    this is demo2
