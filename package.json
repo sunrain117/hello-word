@@ -1,0 +1,24 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "this project is used to study git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rtest": "echo \"This is Demo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrain117/hello-word.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrain117/hello-word/issues"
+  },
+  "homepage": "https://github.com/sunrain117/hello-word#readme",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}
