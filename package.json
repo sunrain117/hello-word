@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "rtest": "echo \"This is Demo\""
+    "prepare": "echo \"this is demo prepare\"",
+    "prepublish": "echo \" this is demo prepublish \"",
+    "preinstall": "echo \"this is demo preinstall\""
   },
   "repository": {
     "type": "git",
